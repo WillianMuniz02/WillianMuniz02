@@ -1,6 +1,7 @@
 <h2 align="left">Olá 👋! Meu nome é Willian Muniz, tenho 24 anos e sou natural de Salvador/BA. Concluí o ensino médio no SESI, com o curso técnico em Meio Ambiente. Atualmente estou terminando uma faculdade de Psicologia no Centro Universitário Mauricio de Nassau. Sou apaixonado por  Tecnologia e Desenvolvimento Humano, estou participando dos 1000DEVS da mesttra em prol da minha melhora dentro do mundo da tecnologia.</h2>
 
 ###
+# ![snake gif](https://github.com/Willian-muniz-02/Willian-muniz-02/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WillianMuniz02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
